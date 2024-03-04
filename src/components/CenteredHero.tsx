@@ -13,7 +13,12 @@ const CenteredHero = (props: {
 }) => (
   <>
     <div className="text-center">
-      <Link className={badgeVariants()} href={props.banner.href}>
+      <Link
+        className={badgeVariants()}
+        href={props.banner.href}
+        target="_blank"
+        rel="noopener"
+      >
         {props.banner.text}
       </Link>
     </div>

@@ -26,19 +26,22 @@ const Hero = () => (
     description="A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
     buttons={
       <>
-        <Link className={buttonVariants({ size: 'lg' })} href="/">
+        <Link
+          className={buttonVariants({ size: 'lg' })}
+          href="https://github.com/ixartz/Next-js-Boilerplate#getting-started"
+        >
           Get Started
         </Link>
 
-        <a
+        <Link
           className={buttonVariants({ variant: 'outline', size: 'lg' })}
           href="https://github.com/ixartz/Next-js-Boilerplate"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopener"
         >
           <GitHubLogoIcon className="mr-2 size-5" />
-          Star on GitHub
-        </a>
+          Star on GitHub (~6k)
+        </Link>
       </>
     }
   />
