@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/ixartz/nextjs-starter/compare/v1.1.0...v1.2.0) (2024-03-04)
+
+
+### Features
+
+* add links in sponsors component ([1297373](https://github.com/ixartz/nextjs-starter/commit/1297373c308d9b71d607ec970d63a45a58b9edd9))
+
 # [1.1.0](https://github.com/ixartz/nextjs-starter/compare/v1.0.0...v1.1.0) (2024-03-04)
 
 
