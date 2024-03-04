@@ -1,3 +1,7 @@
+import { Hero } from '@/templates/Hero';
+import { Navbar } from '@/templates/Navbar';
+import { Sponsors } from '@/templates/Sponsors';
+
 export async function generateMetadata() {
   return {
     title: 'Next.js Boilerplate',
@@ -7,15 +11,18 @@ export async function generateMetadata() {
 
 export default function Index() {
   return (
-    <p>
-      Explore our GitHub project for more information about{' '}
-      <a
-        className="text-blue-700 hover:border-b-2 hover:border-blue-700"
-        href="https://github.com/ixartz/Next-js-Boilerplate"
-      >
-        Next.js Boilerplate
-      </a>
-      .
-    </p>
+    <>
+      <div className="mx-auto max-w-screen-lg px-3 py-6">
+        <Navbar />
+      </div>
+
+      <div className="mx-auto max-w-screen-lg py-36">
+        <Hero />
+      </div>
+
+      <div className="mx-auto max-w-screen-lg py-16">
+        <Sponsors />
+      </div>
+    </>
   );
 }
