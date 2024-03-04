@@ -30,13 +30,15 @@ const Hero = () => (
           Get Started
         </Link>
 
-        <Link
+        <a
           className={buttonVariants({ variant: 'outline', size: 'lg' })}
-          href="/"
+          href="https://github.com/ixartz/Next-js-Boilerplate"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           <GitHubLogoIcon className="mr-2 size-5" />
           Star on GitHub
-        </Link>
+        </a>
       </>
     }
   />
