@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/ixartz/nextjs-starter/compare/v1.2.0...v1.3.0) (2024-03-04)
+
+
+### Features
+
+* add real links with the right rel attribute ([6951b4e](https://github.com/ixartz/nextjs-starter/commit/6951b4eb621267672da8450bac161e636be35325))
+
 # [1.2.0](https://github.com/ixartz/nextjs-starter/compare/v1.1.0...v1.2.0) (2024-03-04)
 
 
