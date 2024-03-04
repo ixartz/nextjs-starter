@@ -1,5 +1,3 @@
-import Link from 'next/link';
-
 import { badgeVariants } from './ui/badge';
 
 const CenteredHero = (props: {
@@ -13,14 +11,14 @@ const CenteredHero = (props: {
 }) => (
   <>
     <div className="text-center">
-      <Link
+      <a
         className={badgeVariants()}
         href={props.banner.href}
         target="_blank"
         rel="noopener"
       >
         {props.banner.text}
-      </Link>
+      </a>
     </div>
 
     <div className="mt-3 text-center text-5xl font-bold tracking-tight">

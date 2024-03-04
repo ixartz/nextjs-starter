@@ -1,5 +1,4 @@
 import { GitHubLogoIcon, TwitterLogoIcon } from '@radix-ui/react-icons';
-import Link from 'next/link';
 
 import { CenteredHero } from '@/components/CenteredHero';
 import { buttonVariants } from '@/components/ui/button';
@@ -26,14 +25,14 @@ const Hero = () => (
     description="A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
     buttons={
       <>
-        <Link
+        <a
           className={buttonVariants({ size: 'lg' })}
           href="https://github.com/ixartz/Next-js-Boilerplate#getting-started"
         >
           Get Started
-        </Link>
+        </a>
 
-        <Link
+        <a
           className={buttonVariants({ variant: 'outline', size: 'lg' })}
           href="https://github.com/ixartz/Next-js-Boilerplate"
           target="_blank"
@@ -41,7 +40,7 @@ const Hero = () => (
         >
           <GitHubLogoIcon className="mr-2 size-5" />
           Star on GitHub (~6k)
-        </Link>
+        </a>
       </>
     }
   />
