@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ixartz/nextjs-starter/compare/v1.0.0...v1.1.0) (2024-03-04)
+
+
+### Features
+
+* add navbar, hero and sponsors components ([192affe](https://github.com/ixartz/nextjs-starter/commit/192affec7d88daa60eb9d9757d5a63b8d3689cec))
+
 # 1.0.0 (2024-03-04)
 
 
