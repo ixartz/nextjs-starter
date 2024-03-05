@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/ixartz/nextjs-starter/compare/v1.3.0...v1.4.0) (2024-03-05)
+
+
+### Features
+
+* add CTA banner and footer section ([1b5a97a](https://github.com/ixartz/nextjs-starter/commit/1b5a97a86f30babc49eb653b92f5bb2c26a4652a))
+* add Features section in the landing page ([4518ad5](https://github.com/ixartz/nextjs-starter/commit/4518ad584e9acb672d37b59f6f1be28f5b717b79))
+* add github and twitter icon in the right menu ([28c658d](https://github.com/ixartz/nextjs-starter/commit/28c658d5088bf11666c98e826cb4fb855c32faad))
+* add marketing text in the landing page ([eb87121](https://github.com/ixartz/nextjs-starter/commit/eb87121a0f6c6cc9877248e8777c7bf8441f402c))
+* use HTML a tag for external links ([316bd2e](https://github.com/ixartz/nextjs-starter/commit/316bd2ec5b3989e058160623fea2389a770426ff))
+* write the last 3 features card ([c5e770c](https://github.com/ixartz/nextjs-starter/commit/c5e770c77a334c1008dbbeb1c2f23e0d01c3f55d))
+
 # [1.3.0](https://github.com/ixartz/nextjs-starter/compare/v1.2.0...v1.3.0) (2024-03-04)
 
 
