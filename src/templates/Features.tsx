@@ -87,10 +87,11 @@ const Features = () => (
               <path d="M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3M12 12l8-4.5M12 12v9M12 12L4 7.5" />
             </svg>
           }
-          title="CRUD Operations with Database"
+          title="CRUD with Database"
         >
-          A free and open-source landing page template for your SaaS business,
-          built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.
+          Effortlessly manage data with Drizzle ORM for a type-safe ORM. The
+          template also includes an example of CRUD, providing a practical guide
+          to handle your database.
         </FeatureCard>
 
         <FeatureCard
@@ -109,8 +110,9 @@ const Features = () => (
           }
           title="Internationalization (i18n)"
         >
-          A free and open-source landing page template for your SaaS business,
-          built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.
+          Expand your application&apos;s global reach with the i18n feature.
+          This feature not only enhances user experience but also helps in
+          breaking language barriers, making your application truly global.
         </FeatureCard>
 
         <FeatureCard
@@ -129,8 +131,9 @@ const Features = () => (
           }
           title="Developer-Focused"
         >
-          A free and open-source landing page template for your SaaS business,
-          built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.
+          Discover an environment with TypeScript, ESLint, and Prettier,
+          ensuring a clean codebase. The boilerplate includes unit, integration,
+          and E2E testing for robust development.
         </FeatureCard>
       </div>
     </Section>
