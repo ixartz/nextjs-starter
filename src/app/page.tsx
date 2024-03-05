@@ -7,8 +7,9 @@ import { Sponsors } from '@/templates/Sponsors';
 
 export async function generateMetadata() {
   return {
-    title: 'Next.js Boilerplate',
-    description: 'Next.js Boilerplate with Tailwind CSS and TypeScript',
+    title: 'Next JS Boilerplate: Kickstart Your Next.js and React app',
+    description:
+      'Enhance your Next.js and React applications with our developer-focused starter template. Benefit from a flexible and modern stack with built-in authentication, multi-language support, and comprehensive testing tools.',
   };
 }
 

@@ -18,14 +18,13 @@ const Hero = () => (
       }}
       title={
         <>
-          The perfect{' '}
+          Kickstart your project effortlessly with the Free and Open-Source{' '}
           <span className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-            SaaS template
-          </span>{' '}
-          to build and scale your business with ease.
+            Next.js Boilerplate
+          </span>
         </>
       }
-      description="A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
+      description="Jumpstart your project in seconds, bundled with built-in Authentication, Database, I18n, Forms, SEO, Logging, Error Reporting, Testing, Deployment, Monitoring, and more!"
       buttons={
         <>
           <a

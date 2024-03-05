@@ -25,7 +25,7 @@ const CenteredHero = (props: {
       {props.title}
     </div>
 
-    <div className="mx-auto mt-5 max-w-screen-sm text-center text-xl text-muted-foreground">
+    <div className="mx-auto mt-5 max-w-screen-md text-center text-xl text-muted-foreground">
       {props.description}
     </div>
 

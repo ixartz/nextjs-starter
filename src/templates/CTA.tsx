@@ -7,8 +7,8 @@ import { buttonVariants } from '@/components/ui/button';
 const CTA = () => (
   <Section>
     <CTABanner
-      title="You are ready?"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      title="Accelerate Your Dev with Next.js Boilerplate"
+      description="Save time and effort, and focus on what matters most - your project."
       buttons={
         <a
           className={buttonVariants({ variant: 'outline', size: 'lg' })}
