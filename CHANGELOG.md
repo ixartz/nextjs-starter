@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/ixartz/nextjs-starter/compare/v1.4.0...v1.5.0) (2024-03-05)
+
+
+### Features
+
+* remove company logo cloud ([3c67c18](https://github.com/ixartz/nextjs-starter/commit/3c67c18e4ce35bd384e50e6f6da0d208f857388d))
+
 # [1.4.0](https://github.com/ixartz/nextjs-starter/compare/v1.3.0...v1.4.0) (2024-03-05)
 
 
