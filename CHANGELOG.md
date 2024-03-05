@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/ixartz/nextjs-starter/compare/v1.5.0...v1.6.0) (2024-03-05)
+
+
+### Features
+
+* enable static export ([c739138](https://github.com/ixartz/nextjs-starter/commit/c7391387054ef3e912544a5351c928ac73eaafeb))
+
 # [1.5.0](https://github.com/ixartz/nextjs-starter/compare/v1.4.0...v1.5.0) (2024-03-05)
 
 
