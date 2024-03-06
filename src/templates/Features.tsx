@@ -13,15 +13,14 @@ const Features = () => (
         <FeatureCard
           icon={
             <svg
-              className="stroke-primary-foreground stroke-2"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               fill="none"
               strokeLinecap="round"
               strokeLinejoin="round"
             >
-              <path d="M0 0h24v24H0z" stroke="none" />
-              <path d="M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3M12 12l8-4.5M12 12v9M12 12L4 7.5" />
+              <path stroke="none" d="M0 0h24v24H0z" />
+              <path d="M12 3a9 9 0 0 1 3.618 17.243l-2.193-5.602a3 3 0 1 0-2.849 0l-2.193 5.603A9 9 0 0 1 12 3z" />
             </svg>
           }
           title="Free and Open-Source"
@@ -34,15 +33,14 @@ const Features = () => (
         <FeatureCard
           icon={
             <svg
-              className="stroke-primary-foreground stroke-2"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               fill="none"
               strokeLinecap="round"
               strokeLinejoin="round"
             >
-              <path d="M0 0h24v24H0z" stroke="none" />
-              <path d="M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3M12 12l8-4.5M12 12v9M12 12L4 7.5" />
+              <path stroke="none" d="M0 0h24v24H0z" />
+              <path d="M12 4 4 8l8 4 8-4-8-4M4 12l8 4 8-4M4 16l8 4 8-4" />
             </svg>
           }
           title="Modern Stack with Next.js"
@@ -55,15 +53,15 @@ const Features = () => (
         <FeatureCard
           icon={
             <svg
-              className="stroke-primary-foreground stroke-2"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               fill="none"
               strokeLinecap="round"
               strokeLinejoin="round"
             >
-              <path d="M0 0h24v24H0z" stroke="none" />
-              <path d="M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3M12 12l8-4.5M12 12v9M12 12L4 7.5" />
+              <path stroke="none" d="M0 0h24v24H0z" />
+              <path d="M12 3a12 12 0 0 0 8.5 3A12 12 0 0 1 12 21 12 12 0 0 1 3.5 6 12 12 0 0 0 12 3" />
+              <path d="M11 11a1 1 0 1 0 2 0 1 1 0 1 0-2 0M12 12v2.5" />
             </svg>
           }
           title="Authentication"
@@ -76,15 +74,16 @@ const Features = () => (
         <FeatureCard
           icon={
             <svg
-              className="stroke-primary-foreground stroke-2"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               fill="none"
               strokeLinecap="round"
               strokeLinejoin="round"
             >
-              <path d="M0 0h24v24H0z" stroke="none" />
-              <path d="M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3M12 12l8-4.5M12 12v9M12 12L4 7.5" />
+              <path stroke="none" d="M0 0h24v24H0z" />
+              <path d="M4 6a8 3 0 1 0 16 0A8 3 0 1 0 4 6" />
+              <path d="M4 6v6a8 3 0 0 0 16 0V6" />
+              <path d="M4 12v6a8 3 0 0 0 16 0v-6" />
             </svg>
           }
           title="CRUD with Database"
@@ -97,15 +96,15 @@ const Features = () => (
         <FeatureCard
           icon={
             <svg
-              className="stroke-primary-foreground stroke-2"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               fill="none"
               strokeLinecap="round"
               strokeLinejoin="round"
             >
-              <path d="M0 0h24v24H0z" stroke="none" />
-              <path d="M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3M12 12l8-4.5M12 12v9M12 12L4 7.5" />
+              <path stroke="none" d="M0 0h24v24H0z" />
+              <path d="M4 5h7M9 3v2c0 4.418-2.239 8-5 8" />
+              <path d="M5 9c0 2.144 2.952 3.908 6.7 4M12 20l4-9 4 9M19.1 18h-6.2" />
             </svg>
           }
           title="Internationalization (i18n)"
@@ -118,15 +117,15 @@ const Features = () => (
         <FeatureCard
           icon={
             <svg
-              className="stroke-primary-foreground stroke-2"
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
               fill="none"
               strokeLinecap="round"
               strokeLinejoin="round"
             >
-              <path d="M0 0h24v24H0z" stroke="none" />
-              <path d="M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3M12 12l8-4.5M12 12v9M12 12L4 7.5" />
+              <path stroke="none" d="M0 0h24v24H0z" />
+              <path d="m8 9 3 3-3 3M13 15h3" />
+              <path d="M3 6a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
             </svg>
           }
           title="Developer-Focused"
