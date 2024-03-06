@@ -7,7 +7,7 @@ const Section = (props: {
   description?: string;
   className?: string;
 }) => (
-  <div className={cn('py-16', props.className)}>
+  <div className={cn('px-3 py-16', props.className)}>
     {(props.title || props.subtitle || props.description) && (
       <div className="mx-auto mb-12 max-w-screen-md text-center">
         {props.subtitle && (

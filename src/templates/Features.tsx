@@ -9,7 +9,7 @@ const Features = () => (
       title="Explore the Powerful Features of Next.js Boilerplate"
       description="Take a moment to explore the features below and see how Next.js boilerplate can significantly accelerate your project launch."
     >
-      <div className="grid grid-cols-3 gap-x-3 gap-y-8">
+      <div className="grid grid-cols-1 gap-x-3 gap-y-8 md:grid-cols-3">
         <FeatureCard
           icon={
             <svg
