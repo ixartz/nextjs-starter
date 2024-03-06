@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/ixartz/nextjs-starter/compare/v1.6.0...v1.7.0) (2024-03-06)
+
+
+### Features
+
+* update icons for the features section ([be50b56](https://github.com/ixartz/nextjs-starter/commit/be50b562ff859dd44a8a26f06f756d6ec42f4ed8))
+
 # [1.6.0](https://github.com/ixartz/nextjs-starter/compare/v1.5.0...v1.6.0) (2024-03-05)
 
 
