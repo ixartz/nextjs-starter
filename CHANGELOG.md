@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/ixartz/nextjs-starter/compare/v1.7.0...v1.8.0) (2024-03-06)
+
+
+### Features
+
+* add padding in section and make the feature component responsive ([918ab9b](https://github.com/ixartz/nextjs-starter/commit/918ab9b87183759ee74f02ba573a3817de89f8d0))
+
 # [1.7.0](https://github.com/ixartz/nextjs-starter/compare/v1.6.0...v1.7.0) (2024-03-06)
 
 
