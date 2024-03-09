@@ -29,7 +29,7 @@ const CenteredHero = (props: {
       {props.description}
     </div>
 
-    <div className="mt-8 flex flex-row justify-center gap-x-5">
+    <div className="mt-8 flex flex-col items-center gap-y-3">
       {props.buttons}
     </div>
   </>

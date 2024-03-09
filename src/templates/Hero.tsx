@@ -1,8 +1,7 @@
-import { GitHubLogoIcon, TwitterLogoIcon } from '@radix-ui/react-icons';
+import { TwitterLogoIcon } from '@radix-ui/react-icons';
 
 import { CenteredHero } from '@/components/CenteredHero';
 import { Section } from '@/components/Section';
-import { buttonVariants } from '@/components/ui/button';
 
 const Hero = () => (
   <Section className="py-48 pb-96">
@@ -18,31 +17,18 @@ const Hero = () => (
       }}
       title={
         <>
-          Kickstart your project effortlessly with the Free and Open-Source{' '}
-          <span className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-            Next.js Boilerplate
-          </span>
+          Kickstart your project effortlessly with the Free and Open-Source
+          Next.js Boilerplate
         </>
       }
       description="Jumpstart your project in seconds, bundled with built-in Authentication, Database, I18n, Forms, SEO, Logging, Error Reporting, Testing, Deployment, Monitoring, and more!"
       buttons={
         <>
-          <a
-            className={buttonVariants({ size: 'lg' })}
-            href="https://github.com/ixartz/Next-js-Boilerplate#getting-started"
-          >
-            Get Started
-          </a>
+          <div className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 bg-clip-text text-9xl font-extrabold text-transparent">
+            6000
+          </div>
 
-          <a
-            className={buttonVariants({ variant: 'outline', size: 'lg' })}
-            href="https://github.com/ixartz/Next-js-Boilerplate"
-            target="_blank"
-            rel="noopener"
-          >
-            <GitHubLogoIcon className="mr-2 size-5" />
-            Star on GitHub (~6k)
-          </a>
+          <div className="text-5xl font-bold">GitHub Stars</div>
         </>
       }
     />
