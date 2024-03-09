@@ -5,7 +5,7 @@ import { Section } from '@/components/Section';
 import { buttonVariants } from '@/components/ui/button';
 
 const Hero = () => (
-  <Section className="py-48 pb-96">
+  <Section className="py-36">
     <CenteredHero
       banner={{
         href: 'https://twitter.com/ixartz',

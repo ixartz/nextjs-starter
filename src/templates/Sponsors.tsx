@@ -1,5 +1,3 @@
-import Image from 'next/image';
-
 import { LogoCloud } from '@/components/LogoCloud';
 import { Section } from '@/components/Section';
 
@@ -11,7 +9,7 @@ const Sponsors = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        <Image
+        <img
           src="/assets/images/clerk.png"
           alt="Clerk"
           width="128"
@@ -24,7 +22,7 @@ const Sponsors = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        <Image
+        <img
           src="/assets/images/turso.png"
           alt="Turso"
           width="128"
@@ -37,7 +35,7 @@ const Sponsors = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        <Image
+        <img
           src="/assets/images/crowdin-dark.png"
           alt="Crowdin"
           width="128"
@@ -50,7 +48,7 @@ const Sponsors = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        <Image
+        <img
           src="/assets/images/sentry-dark.png"
           alt="Sentry"
           width="128"
@@ -63,7 +61,7 @@ const Sponsors = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        <Image
+        <img
           src="/assets/images/better-stack-dark.png"
           alt="Better Stack"
           width="128"
@@ -72,7 +70,7 @@ const Sponsors = () => (
       </a>
 
       <a href="https://nextlessjs.com" target="_blank" rel="noopener">
-        <Image
+        <img
           src="/assets/images/nextlessjs.png"
           alt="Nextjs SaaS Boilerplate"
           width="128"
