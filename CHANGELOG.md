@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/ixartz/nextjs-starter/compare/v1.8.0...v1.9.0) (2024-03-09)
+
+
+### Features
+
+* add back logo in below Hero component ([429b3d4](https://github.com/ixartz/nextjs-starter/commit/429b3d4d14cdb9d0711c5d2924740c703befe014))
+
 # [1.8.0](https://github.com/ixartz/nextjs-starter/compare/v1.7.0...v1.8.0) (2024-03-06)
 
 
